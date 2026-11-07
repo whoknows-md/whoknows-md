@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: p4p1/tryhackme-badge-workflow@main
+      - uses: p4p1/thm-live-badge@main
         with:
           username: "ShadowCat00"
           image_path: "./assets/tryhackme-badge.png"
