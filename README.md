@@ -37,10 +37,11 @@ Computer Science Engineering student, Cyber Security enthusiast, learning on Pen
 
 ## TryHackMe Profile
 
-[![TryHackMe|173](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ShadowCat00)
+<a href="https://tryhackme.com/p/ShadowCat00"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" height="40"></a>
 
 ---
 
 ## Let's Connect
 
-[![LinkedIn|96](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-m-263960290)     [![Discord|115](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)]([https://discordapp.com/users/1368234151915819038](https://discordapp.com/users/1368234151915819038 "https://discordapp.com/users/1368234151915819038")
+<a href="https://www.linkedin.com/in/dhanush-m-263960290"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>   <a href="https://discordapp.com/users/1368234151915819038"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="48" height="48"></a>
+
