@@ -43,5 +43,5 @@ Computer Science Engineering student, Cyber Security enthusiast, learning on Pen
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/dhanush-m-263960290"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="48" height="48"></a>   <a href="https://discordapp.com/users/1368234151915819038"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="48" height="48"></a>
+<a href="https://www.linkedin.com/in/dhanush-m-263960290"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"></a>   <a href="https://discordapp.com/users/1368234151915819038"><img src="https://cdn.simpleicons.org/discord/5865F2" alt="Discord" width="40" height="40"></a>
 
