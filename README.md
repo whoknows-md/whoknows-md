@@ -1,8 +1,6 @@
-# Dhanush M
+# Hello, I'm Dhanush
 
-**Computer Science Engineering Undergraduate | Aspiring Penetration Tester**
-
-Cybersecurity student focused on penetration testing, with a long-term goal of working in red teaming.
+Computer Science Engineering student, Cyber Security enthusiast, learning on Penetration Testing with a vision on Red Team
 
 ---
 
@@ -13,7 +11,7 @@ Cybersecurity student focused on penetration testing, with a long-term goal of w
 
 ### Tools
 
-![Nmap|81](https://nmap.org/images/sitelogo.png)  ![Metasploit|52](https://img.shields.io/badge/-%20-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)  ![Wireshark|51](https://img.shields.io/badge/-%20-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  ![Burp Suite|50](https://img.shields.io/badge/-%20-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+<img src="https://nmap.org/images/sitelogo.png" alt="Nmap" height="48">   <img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="Metasploit" width="48" height="48">   <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="48" height="48">   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" width="48" height="48">   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="48" height="48">   <img src="https://cdn.simpleicons.org/github/8B949E" alt="GitHub" width="48" height="48">
 
 ### Frameworks & Concepts
 
@@ -29,7 +27,7 @@ Cybersecurity student focused on penetration testing, with a long-term goal of w
 
 **Operating Systems**
 
-![Fedora|47](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg)  ![Kali Linux](https://skillicons.dev/icons?i=kali)  ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)  ![Windows](https://skillicons.dev/icons?i=windows)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="48" height="48">   <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" width="48" height="48">   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="48" height="48">   <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="48" height="48">
 
 **Database and Cloud**
 
@@ -43,6 +41,6 @@ Cybersecurity student focused on penetration testing, with a long-term goal of w
 
 ---
 
-## Contacts
+## Let's Connect
 
-[![LinkedIn|96](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-m-263960290)  [![Discord|115](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)]([https://discordapp.com/users/1368234151915819038](https://discordapp.com/users/1368234151915819038 "https://discordapp.com/users/1368234151915819038"))
+[![LinkedIn|96](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-m-263960290)     [![Discord|115](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)]([https://discordapp.com/users/1368234151915819038](https://discordapp.com/users/1368234151915819038 "https://discordapp.com/users/1368234151915819038")
